@@ -193,7 +193,3 @@ body {
     border: 2px solid red;
     transition: 3s;
 }
-.music {
-    float: right;
-    margin-right: 50px; /* Adjust this value as needed */
-}
